@@ -64,7 +64,7 @@
 "Accessibility.DateTime.Week.Third" = "Third";
 
 /* Accessibility label for fourth week of the month */
-"Accessibility.DateTime.Week.Fourth" = "Quarter";
+"Accessibility.DateTime.Week.Fourth" = "Fourth";
 
 /* Accessibility label for last week of the month */
 "Accessibility.DateTime.Week.Last" = "Last";

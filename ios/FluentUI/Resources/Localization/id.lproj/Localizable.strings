@@ -4,130 +4,130 @@
 //
 
 // Accessibility
-"Accessibility.Alert" = "Peringatan";
-"Accessibility.Dismiss.Label" = "Tutup";
-"Accessibility.Dismiss.Hint" = "Ketuk dua kali untuk menutup";
-"Accessibility.Done.Label" = "Selesai";
-"Accessibility.MultiSelect.Hint" = "Ketuk dua kali untuk mematikan/menghidupkan pilihan";
-"Accessibility.Select.Hint" = "Ketuk dua kali untuk memilih";
-"Accessibility.Selected.Hint" = "Ketuk dua kali untuk melihat detail";
-"Accessibility.Selected.Value" = "Dipilih";
+"Accessibility.Alert" = "Alert";
+"Accessibility.Dismiss.Label" = "Dismiss";
+"Accessibility.Dismiss.Hint" = "Double tap to dismiss";
+"Accessibility.Done.Label" = "Done";
+"Accessibility.MultiSelect.Hint" = "Double tap to toggle selection";
+"Accessibility.Select.Hint" = "Double tap to select";
+"Accessibility.Selected.Hint" = "Double tap to see details";
+"Accessibility.Selected.Value" = "Selected";
 
 /* Accessibility label for the upper calendar date picker view. */
-"Accessibility.Calendar.Label" = "Kalender";
+"Accessibility.Calendar.Label" = "Calendar";
 
 /* Accessibility hint for the upper calendar date picker view */
-"Accessibility.Calendar.Hint" = "Pilih tanggal";
+"Accessibility.Calendar.Hint" = "Select a date";
 
 // TODO: Change to a stringsdict format
 // TODO: Reassess for generic indicator
 /* Accessibility: Number of events on the given day (%d is the number) */
-"Accessibility.Calendar.Events.Number" = "%d acara";
+"Accessibility.Calendar.Events.Number" = "%d events";
 
 /* Accessibility: There's no events on the given day */
-"Accessibility.Calendar.Events.None" = "tidak ada acara";
+"Accessibility.Calendar.Events.None" = "no events";
 
 /* Accessibility label for month in date time picker */
-"Accessibility.DateTime.Month.Label" = "Bulan";
+"Accessibility.DateTime.Month.Label" = "Month";
 
 /* Accessibility label for day in date time picker */
-"Accessibility.DateTime.Day.Label" = "Hari";
+"Accessibility.DateTime.Day.Label" = "Day";
 
 /* Accessibility label for year in date time picker */
-"Accessibility.DateTime.Year.Label" = "Tahun";
+"Accessibility.DateTime.Year.Label" = "Year";
 
 /* Accessibility label for date in date time picker */
-"Accessibility.DateTime.Date.Label" = "Tanggal";
+"Accessibility.DateTime.Date.Label" = "Date";
 
 /* Accessibility label for hour in date time picker */
-"Accessibility.DateTime.Hour.Label" = "Jam";
+"Accessibility.DateTime.Hour.Label" = "Hour";
 
 /* Accessibility label for minute in date time picker */
-"Accessibility.DateTime.Minute.Label" = "Menit";
+"Accessibility.DateTime.Minute.Label" = "Minute";
 
 /* Accessibility label for AM/PM in date time picker */
 "Accessibility.DateTime.AMPM.Label" = "AM/PM";
 
 /* Accessibility label for week of month in date time picker */
-"Accessibility.DateTime.WeekOfMonth.Label" = "Minggu dalam sebulan";
+"Accessibility.DateTime.WeekOfMonth.Label" = "Week of month";
 
 /* Accessibility label for day of week in date time picker */
-"Accessibility.DateTime.DayOfWeek.Label" = "Hari dalam seminggu";
+"Accessibility.DateTime.DayOfWeek.Label" = "Day of week";
 
 /* Accessibility label for first week of the month */
-"Accessibility.DateTime.Week.First" = "Pertama";
+"Accessibility.DateTime.Week.First" = "First";
 
 /* Accessibility label for second week of the month */
-"Accessibility.DateTime.Week.Second" = "Kedua";
+"Accessibility.DateTime.Week.Second" = "Second";
 
 /* Accessibility label for third week of the month */
-"Accessibility.DateTime.Week.Third" = "Ketiga";
+"Accessibility.DateTime.Week.Third" = "Third";
 
 /* Accessibility label for fourth week of the month */
-"Accessibility.DateTime.Week.Fourth" = "Keempat";
+"Accessibility.DateTime.Week.Fourth" = "Fourth";
 
 /* Accessibility label for last week of the month */
-"Accessibility.DateTime.Week.Last" = "Terakhir";
+"Accessibility.DateTime.Week.Last" = "Last";
 
 /* Accessibility label for drawer's resizing handle when it has expand action */
-"Accessibility.Drawer.ResizingHandle.Label.Expand" = "Perluas";
+"Accessibility.Drawer.ResizingHandle.Label.Expand" = "Expand";
 /* Accessibility hint for drawer's resizing handle when it has expand action */
-"Accessibility.Drawer.ResizingHandle.Hint.Expand" = "Ketuk dua kali untuk memperluas";
+"Accessibility.Drawer.ResizingHandle.Hint.Expand" = "Double tap to expand";
 /* Accessibility label for drawer's resizing handle when it has collapse action */
-"Accessibility.Drawer.ResizingHandle.Label.Collapse" = "Ciutkan";
+"Accessibility.Drawer.ResizingHandle.Label.Collapse" = "Collapse";
 /* Accessibility hint for drawer's resizing handle when it has collapse action */
-"Accessibility.Drawer.ResizingHandle.Hint.Collapse" = "Ketuk dua kali untuk menciutkan";
+"Accessibility.Drawer.ResizingHandle.Hint.Collapse" = "Double tap to collapse";
 
 /* Accessibility label for when a task under progress has finished */
-"Accessibility.HUD.Done" = "Selesai";
+"Accessibility.HUD.Done" = "Done";
 
 /* Accessibility label for when a task under progress has failed */
-"Accessibility.HUD.Failed" = "Gagal";
+"Accessibility.HUD.Failed" = "Failed";
 
 /* Accessibility label for when a task is in progress */
-"Accessibility.HUD.Loading" = "Memuat";
+"Accessibility.HUD.Loading" = "Loading";
 
 /* Accessibility hint for MSPillButtons in an MSPillButtonBar. %1$d is placeholder for index and %2$d is a placeholder for total number of items */
-"Accessibility.MSPillButtonBar.Hint" = "%1$d dari %2$d";
+"Accessibility.MSPillButtonBar.Hint" = "%1$d of %2$d";
 
 /* Accessibility label for the avatar (or profile) view in */
-"Accessibility.LargeTitle.ProfileView" = "Profil Akun";
+"Accessibility.LargeTitle.ProfileView" = "Account Profile";
 
 /* Accessibility hint for a segmented control button */
-"Accessibility.Segmented.Button.Hint" = "Ketuk untuk membuka %@";
+"Accessibility.Segmented.Button.Hint" = "Tap to go to %@";
 
 /* Accessibility hint for TabBarItemView to indicate its index relative to total number of items */
-"Accessibility.TabBarItemView.Hint" = "%d dari %d";
+"Accessibility.TabBarItemView.Hint" = "%d of %d";
 
 /* Accessibility hint for more actions button */
-"Accessibility.TableViewCell.MoreActions.Hint" = "Ketuk dua kali untuk melihat tindakan lainnya";
+"Accessibility.TableViewCell.MoreActions.Hint" = "Double tap to view more actions";
 
 /* Accessibility label for more actions button */
-"Accessibility.TableViewCell.MoreActions.Label" = "Tindakan lainnya";
+"Accessibility.TableViewCell.MoreActions.Label" = "More actions";
 
 /* Accessibility hint for cell when accessory view is a UISwitch */
-"Accessibility.TableViewCell.Switch.Hint" = "Ketuk dua kali untuk memperlihatkan/menyembunyikan pengaturan";
+"Accessibility.TableViewCell.Switch.Hint" = "Double tap to toggle setting";
 
 /* Accessibility value for when a UISwitch is on */
-"Accessibility.TableViewCell.Switch.On" = "Aktif";
+"Accessibility.TableViewCell.Switch.On" = "On";
 
 /* Accessibility value for when a UISwitch is off */
-"Accessibility.TableViewCell.Switch.Off" = "Nonaktif";
+"Accessibility.TableViewCell.Switch.Off" = "Off";
 
 /* Generic label for cancel action */
-"Common.Cancel" = "Batal";
+"Common.Cancel" = "Cancel";
 
 // MSPersonaListView
-"MSPersonaListView.SearchDirectory" = "Cari Direktori";
+"MSPersonaListView.SearchDirectory" = "Search Directory";
 
 /* MSDateTimePicker label for the start time of a date range */
-"MSDateTimePicker.StartTime" = "Waktu Mulai";
+"MSDateTimePicker.StartTime" = "Start Time";
 
 /* MSDateTimePicker label for the end time of a date range */
-"MSDateTimePicker.EndTime" = "Waktu Selesai";
+"MSDateTimePicker.EndTime" = "End Time";
 
 /* MSDateTimePicker label for the start date of a date range */
-"MSDateTimePicker.StartDate" = "Tanggal Mulai";
+"MSDateTimePicker.StartDate" = "Start Date";
 
 /* MSDateTimePicker label for the end date of a date range */
-"MSDateTimePicker.EndDate" = "Tanggal Selesai";
+"MSDateTimePicker.EndDate" = "End Date";

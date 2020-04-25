@@ -13,17 +13,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
         <key>one</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
         <key>two</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
         <key>few</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
         <key>many</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
         <key>other</key>
-        <string>%d ч</string>
+        <string>%d o'clock</string>
       </dict>
     </dict>
     <key>Accessibility.DateTime.Minute.Value</key>
@@ -37,17 +37,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>%d мин</string>
+        <string>%d minutes</string>
         <key>one</key>
-        <string>%d минута</string>
+        <string>%d minute</string>
         <key>two</key>
-        <string>%d мин</string>
+        <string>%d minutes</string>
         <key>few</key>
-        <string>%d мин</string>
+        <string>%d minutes</string>
         <key>many</key>
-        <string>%d мин</string>
+        <string>%d minutes</string>
         <key>other</key>
-        <string>%d мин</string>
+        <string>%d minutes</string>
       </dict>
     </dict>
     <key>%d results found from directory</key>
@@ -61,17 +61,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>Количество результатов поиска в каталоге: %d</string>
+        <string>%d results found from directory</string>
         <key>one</key>
-        <string>%d результат поиска в каталоге</string>
+        <string>%d result found from directory</string>
         <key>two</key>
-        <string>Количество результатов поиска в каталоге: %d</string>
+        <string>%d results found from directory</string>
         <key>few</key>
-        <string>Количество результатов поиска в каталоге: %d</string>
+        <string>%d results found from directory</string>
         <key>many</key>
-        <string>Количество результатов поиска в каталоге: %d</string>
+        <string>%d results found from directory</string>
         <key>other</key>
-        <string>Количество результатов поиска в каталоге: %d</string>
+        <string>%d results found from directory</string>
       </dict>
     </dict>
   </dict>

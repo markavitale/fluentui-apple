@@ -4,130 +4,130 @@
 //
 
 // Accessibility
-"Accessibility.Alert" = "चेतावनी";
-"Accessibility.Dismiss.Label" = "ख़ारिज करें";
-"Accessibility.Dismiss.Hint" = "ख़ारिज करने के लिए डबल-टैप करें";
-"Accessibility.Done.Label" = "पूर्ण";
-"Accessibility.MultiSelect.Hint" = "चयन को टॉगल करने के लिए डबल टैप करें";
-"Accessibility.Select.Hint" = "चयन के लिए डबल टैप";
-"Accessibility.Selected.Hint" = "विवरण देखने के लिए डबल टैप करें";
-"Accessibility.Selected.Value" = "चयनित";
+"Accessibility.Alert" = "Alert";
+"Accessibility.Dismiss.Label" = "Dismiss";
+"Accessibility.Dismiss.Hint" = "Double tap to dismiss";
+"Accessibility.Done.Label" = "Done";
+"Accessibility.MultiSelect.Hint" = "Double tap to toggle selection";
+"Accessibility.Select.Hint" = "Double tap to select";
+"Accessibility.Selected.Hint" = "Double tap to see details";
+"Accessibility.Selected.Value" = "Selected";
 
 /* Accessibility label for the upper calendar date picker view. */
-"Accessibility.Calendar.Label" = "कैलेंडर";
+"Accessibility.Calendar.Label" = "Calendar";
 
 /* Accessibility hint for the upper calendar date picker view */
-"Accessibility.Calendar.Hint" = "किसी दिनांक का चयन करें";
+"Accessibility.Calendar.Hint" = "Select a date";
 
 // TODO: Change to a stringsdict format
 // TODO: Reassess for generic indicator
 /* Accessibility: Number of events on the given day (%d is the number) */
-"Accessibility.Calendar.Events.Number" = "%d इवेंट";
+"Accessibility.Calendar.Events.Number" = "%d events";
 
 /* Accessibility: There's no events on the given day */
-"Accessibility.Calendar.Events.None" = "कोई ईवेंट नहीं";
+"Accessibility.Calendar.Events.None" = "no events";
 
 /* Accessibility label for month in date time picker */
-"Accessibility.DateTime.Month.Label" = "माह";
+"Accessibility.DateTime.Month.Label" = "Month";
 
 /* Accessibility label for day in date time picker */
-"Accessibility.DateTime.Day.Label" = "दिन";
+"Accessibility.DateTime.Day.Label" = "Day";
 
 /* Accessibility label for year in date time picker */
-"Accessibility.DateTime.Year.Label" = "वर्ष";
+"Accessibility.DateTime.Year.Label" = "Year";
 
 /* Accessibility label for date in date time picker */
-"Accessibility.DateTime.Date.Label" = "दिनांक";
+"Accessibility.DateTime.Date.Label" = "Date";
 
 /* Accessibility label for hour in date time picker */
-"Accessibility.DateTime.Hour.Label" = "घंटा";
+"Accessibility.DateTime.Hour.Label" = "Hour";
 
 /* Accessibility label for minute in date time picker */
-"Accessibility.DateTime.Minute.Label" = "मिनट";
+"Accessibility.DateTime.Minute.Label" = "Minute";
 
 /* Accessibility label for AM/PM in date time picker */
 "Accessibility.DateTime.AMPM.Label" = "AM/PM";
 
 /* Accessibility label for week of month in date time picker */
-"Accessibility.DateTime.WeekOfMonth.Label" = "माह का सप्ताह";
+"Accessibility.DateTime.WeekOfMonth.Label" = "Week of month";
 
 /* Accessibility label for day of week in date time picker */
-"Accessibility.DateTime.DayOfWeek.Label" = "सप्ताह का दिन";
+"Accessibility.DateTime.DayOfWeek.Label" = "Day of week";
 
 /* Accessibility label for first week of the month */
-"Accessibility.DateTime.Week.First" = "पहला";
+"Accessibility.DateTime.Week.First" = "First";
 
 /* Accessibility label for second week of the month */
-"Accessibility.DateTime.Week.Second" = "दूसरा";
+"Accessibility.DateTime.Week.Second" = "Second";
 
 /* Accessibility label for third week of the month */
-"Accessibility.DateTime.Week.Third" = "तीसरा";
+"Accessibility.DateTime.Week.Third" = "Third";
 
 /* Accessibility label for fourth week of the month */
-"Accessibility.DateTime.Week.Fourth" = "चौथा";
+"Accessibility.DateTime.Week.Fourth" = "Fourth";
 
 /* Accessibility label for last week of the month */
-"Accessibility.DateTime.Week.Last" = "अंतिम";
+"Accessibility.DateTime.Week.Last" = "Last";
 
 /* Accessibility label for drawer's resizing handle when it has expand action */
-"Accessibility.Drawer.ResizingHandle.Label.Expand" = "विस्तृत करें";
+"Accessibility.Drawer.ResizingHandle.Label.Expand" = "Expand";
 /* Accessibility hint for drawer's resizing handle when it has expand action */
-"Accessibility.Drawer.ResizingHandle.Hint.Expand" = "विस्तृत करने के लिए डबल टैप करें";
+"Accessibility.Drawer.ResizingHandle.Hint.Expand" = "Double tap to expand";
 /* Accessibility label for drawer's resizing handle when it has collapse action */
-"Accessibility.Drawer.ResizingHandle.Label.Collapse" = "संक्षिप्त करें";
+"Accessibility.Drawer.ResizingHandle.Label.Collapse" = "Collapse";
 /* Accessibility hint for drawer's resizing handle when it has collapse action */
-"Accessibility.Drawer.ResizingHandle.Hint.Collapse" = "संक्षिप्त करने के लिए डबल टैप करें";
+"Accessibility.Drawer.ResizingHandle.Hint.Collapse" = "Double tap to collapse";
 
 /* Accessibility label for when a task under progress has finished */
-"Accessibility.HUD.Done" = "पूर्ण";
+"Accessibility.HUD.Done" = "Done";
 
 /* Accessibility label for when a task under progress has failed */
-"Accessibility.HUD.Failed" = "विफल";
+"Accessibility.HUD.Failed" = "Failed";
 
 /* Accessibility label for when a task is in progress */
-"Accessibility.HUD.Loading" = "लोड हो रहा है";
+"Accessibility.HUD.Loading" = "Loading";
 
 /* Accessibility hint for MSPillButtons in an MSPillButtonBar. %1$d is placeholder for index and %2$d is a placeholder for total number of items */
-"Accessibility.MSPillButtonBar.Hint" = "%2$d में से %1$d";
+"Accessibility.MSPillButtonBar.Hint" = "%1$d of %2$d";
 
 /* Accessibility label for the avatar (or profile) view in */
-"Accessibility.LargeTitle.ProfileView" = "खाता प्रोफ़ाइल";
+"Accessibility.LargeTitle.ProfileView" = "Account Profile";
 
 /* Accessibility hint for a segmented control button */
-"Accessibility.Segmented.Button.Hint" = "%@ पर जाने के लिए टैप करें";
+"Accessibility.Segmented.Button.Hint" = "Tap to go to %@";
 
 /* Accessibility hint for TabBarItemView to indicate its index relative to total number of items */
-"Accessibility.TabBarItemView.Hint" = "%d में से %d";
+"Accessibility.TabBarItemView.Hint" = "%d of %d";
 
 /* Accessibility hint for more actions button */
-"Accessibility.TableViewCell.MoreActions.Hint" = "अधिक गतिविधियाँ देखने के लिए डबल टैप करें";
+"Accessibility.TableViewCell.MoreActions.Hint" = "Double tap to view more actions";
 
 /* Accessibility label for more actions button */
-"Accessibility.TableViewCell.MoreActions.Label" = "अधिक गतिविधियाँ";
+"Accessibility.TableViewCell.MoreActions.Label" = "More actions";
 
 /* Accessibility hint for cell when accessory view is a UISwitch */
-"Accessibility.TableViewCell.Switch.Hint" = "सेटिंग को टॉगल करने के लिए डबल टैप करें";
+"Accessibility.TableViewCell.Switch.Hint" = "Double tap to toggle setting";
 
 /* Accessibility value for when a UISwitch is on */
-"Accessibility.TableViewCell.Switch.On" = "चालू";
+"Accessibility.TableViewCell.Switch.On" = "On";
 
 /* Accessibility value for when a UISwitch is off */
-"Accessibility.TableViewCell.Switch.Off" = "बंद";
+"Accessibility.TableViewCell.Switch.Off" = "Off";
 
 /* Generic label for cancel action */
-"Common.Cancel" = "रद्द करें";
+"Common.Cancel" = "Cancel";
 
 // MSPersonaListView
-"MSPersonaListView.SearchDirectory" = "डायरेक्टरी खोजें";
+"MSPersonaListView.SearchDirectory" = "Search Directory";
 
 /* MSDateTimePicker label for the start time of a date range */
-"MSDateTimePicker.StartTime" = "प्रारंभ समय";
+"MSDateTimePicker.StartTime" = "Start Time";
 
 /* MSDateTimePicker label for the end time of a date range */
-"MSDateTimePicker.EndTime" = "समाप्ति समय";
+"MSDateTimePicker.EndTime" = "End Time";
 
 /* MSDateTimePicker label for the start date of a date range */
-"MSDateTimePicker.StartDate" = "प्रारंभ दिनांक";
+"MSDateTimePicker.StartDate" = "Start Date";
 
 /* MSDateTimePicker label for the end date of a date range */
-"MSDateTimePicker.EndDate" = "समाप्ति दिनांक";
+"MSDateTimePicker.EndDate" = "End Date";

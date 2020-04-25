@@ -13,17 +13,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
         <key>one</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
         <key>two</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
         <key>few</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
         <key>many</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
         <key>other</key>
-        <string>Klokken %d</string>
+        <string>%d o'clock</string>
       </dict>
     </dict>
     <key>Accessibility.DateTime.Minute.Value</key>
@@ -37,17 +37,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>%d minutter</string>
+        <string>%d minutes</string>
         <key>one</key>
-        <string>%d minut</string>
+        <string>%d minute</string>
         <key>two</key>
-        <string>%d minutter</string>
+        <string>%d minutes</string>
         <key>few</key>
-        <string>%d minutter</string>
+        <string>%d minutes</string>
         <key>many</key>
-        <string>%d minutter</string>
+        <string>%d minutes</string>
         <key>other</key>
-        <string>%d minutter</string>
+        <string>%d minutes</string>
       </dict>
     </dict>
     <key>%d results found from directory</key>
@@ -61,17 +61,17 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>zero</key>
-        <string>Der blev fundet %d resultater fra mappen</string>
+        <string>%d results found from directory</string>
         <key>one</key>
-        <string>%d resultat blev fundet fra mappen</string>
+        <string>%d result found from directory</string>
         <key>two</key>
-        <string>Der blev fundet %d resultater fra mappen</string>
+        <string>%d results found from directory</string>
         <key>few</key>
-        <string>Der blev fundet %d resultater fra mappen</string>
+        <string>%d results found from directory</string>
         <key>many</key>
-        <string>Der blev fundet %d resultater fra mappen</string>
+        <string>%d results found from directory</string>
         <key>other</key>
-        <string>Der blev fundet %d resultater fra mappen</string>
+        <string>%d results found from directory</string>
       </dict>
     </dict>
   </dict>

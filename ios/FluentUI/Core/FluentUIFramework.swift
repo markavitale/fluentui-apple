@@ -32,10 +32,10 @@ public extension Colors {
 public class FluentUIFramework: NSObject {
     @objc public static var bundle: Bundle { return Bundle(for: self) }
     @objc public static let resourceBundle: Bundle = {
-        guard let url = bundle.resourceURL?.appendingPathComponent("FluentUIResources-ios.bundle", isDirectory: true), let bundle = Bundle(url: url) else {
-            preconditionFailure("FluentUI resource bundle is not found")
-        }
-        return bundle
+//        guard let url = bundle.resourceURL?.appendingPathComponent("FluentUIResources-ios.bundle", isDirectory: true), let bundle = Bundle(url: url) else {
+//            preconditionFailure("FluentUI resource bundle is not found")
+//        }
+        return Bundle.module
     }()
 
     @available(*, deprecated, message: "Non-fluent icons no longer supported. Setting this var no longer has any effect and it will be removed in a future update.")

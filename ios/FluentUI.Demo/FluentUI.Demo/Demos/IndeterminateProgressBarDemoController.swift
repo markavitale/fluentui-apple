@@ -4,6 +4,7 @@
 //
 
 import UIKit
+import FluentUI
 
 class IndeterminateProgressBarDemoController: DemoController {
     override func viewDidLoad() {

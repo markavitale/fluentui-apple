@@ -21,6 +21,7 @@
 		8F0B81122670200300463726 /* AppCenterDistribute in Frameworks */ = {isa = PBXBuildFile; productRef = 8F0B81112670200300463726 /* AppCenterDistribute */; };
 		8F0B8114267021A700463726 /* AppCenterAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 8F0B8113267021A700463726 /* AppCenterAnalytics */; };
 		8F0B8116267021A700463726 /* AppCenterCrashes in Frameworks */ = {isa = PBXBuildFile; productRef = 8F0B8115267021A700463726 /* AppCenterCrashes */; };
+		8F6533352675E40100812AE5 /* FluentUI in Frameworks */ = {isa = PBXBuildFile; productRef = 8F6533342675E40100812AE5 /* FluentUI */; };
 		A589F856211BA71000471C23 /* LabelDemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A589F855211BA71000471C23 /* LabelDemoController.swift */; };
 		A591A3F420F429EB001ED23B /* Demos.swift in Sources */ = {isa = PBXBuildFile; fileRef = A591A3F320F429EB001ED23B /* Demos.swift */; };
 		A5961FA9218A61BB00E2A506 /* PopupMenuDemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5961FA8218A61BB00E2A506 /* PopupMenuDemoController.swift */; };
@@ -29,8 +30,6 @@
 		A5CEC21220E436F10016922A /* DemoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CEC21120E436F10016922A /* DemoListViewController.swift */; };
 		A5CEC21920E436F20016922A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5CEC21820E436F20016922A /* Assets.xcassets */; };
 		A5CEC21C20E436F20016922A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5CEC21A20E436F20016922A /* LaunchScreen.storyboard */; };
-		A5CEC22C20E450340016922A /* FluentUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5CEC22A20E44FBF0016922A /* FluentUI.framework */; };
-		A5CEC22D20E450340016922A /* FluentUI.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = A5CEC22A20E44FBF0016922A /* FluentUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		A5DCA75E211E3A92005F4CB7 /* DrawerDemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DCA75D211E3A92005F4CB7 /* DrawerDemoController.swift */; };
 		A5DCA760211E3B4C005F4CB7 /* DemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DCA75F211E3B4C005F4CB7 /* DemoController.swift */; };
 		B42760DD21488FFA0021A4F7 /* AvatarViewDemoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B42760DC21488FFA0021A4F7 /* AvatarViewDemoController.swift */; };
@@ -69,7 +68,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				A5CEC22D20E450340016922A /* FluentUI.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -88,6 +86,7 @@
 		80AECC0B2630F1BB005AF2F3 /* BottomCommandingDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomCommandingDemoController.swift; sourceTree = "<group>"; };
 		80B1F7002628D8BB004DFEE5 /* BottomSheetDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetDemoController.swift; sourceTree = "<group>"; };
 		8AF03E1F24B6BE3100E6E2A2 /* ContactCollectionViewDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCollectionViewDemoController.swift; sourceTree = "<group>"; };
+		8F6533302675E35F00812AE5 /* fluentui-apple */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "fluentui-apple"; path = ../..; sourceTree = "<group>"; };
 		A589F855211BA71000471C23 /* LabelDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelDemoController.swift; sourceTree = "<group>"; };
 		A591A3F320F429EB001ED23B /* Demos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demos.swift; sourceTree = "<group>"; };
 		A5961FA8218A61BB00E2A506 /* PopupMenuDemoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupMenuDemoController.swift; sourceTree = "<group>"; };
@@ -174,8 +173,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F6533352675E40100812AE5 /* FluentUI in Frameworks */,
 				8F0B81122670200300463726 /* AppCenterDistribute in Frameworks */,
-				A5CEC22C20E450340016922A /* FluentUI.framework in Frameworks */,
 				8F0B8114267021A700463726 /* AppCenterAnalytics in Frameworks */,
 				8F0B8116267021A700463726 /* AppCenterCrashes in Frameworks */,
 			);
@@ -215,6 +214,7 @@
 		A5CEC20320E436F10016922A = {
 			isa = PBXGroup;
 			children = (
+				8F6533302675E35F00812AE5 /* fluentui-apple */,
 				A5CEC20E20E436F10016922A /* FluentUI.Demo */,
 				A5CEC20D20E436F10016922A /* Products */,
 				A5CEC22920E44FBF0016922A /* Frameworks */,
@@ -329,6 +329,7 @@
 				8F0B81112670200300463726 /* AppCenterDistribute */,
 				8F0B8113267021A700463726 /* AppCenterAnalytics */,
 				8F0B8115267021A700463726 /* AppCenterCrashes */,
+				8F6533342675E40100812AE5 /* FluentUI */,
 			);
 			productName = OfficeUIFabric.Demo;
 			productReference = A5CEC20C20E436F10016922A /* FluentUI.Demo.app */;
@@ -835,6 +836,10 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 8F0B81102670200300463726 /* XCRemoteSwiftPackageReference "appcenter-sdk-apple" */;
 			productName = AppCenterCrashes;
+		};
+		8F6533342675E40100812AE5 /* FluentUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = FluentUI;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

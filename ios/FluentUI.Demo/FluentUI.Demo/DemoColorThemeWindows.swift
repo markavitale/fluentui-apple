@@ -4,6 +4,7 @@
 //
 
 import UIKit
+import FluentUI
 
 class DemoColorThemeDefaultWindow: UIWindow, ColorProviding {
     func primaryColor(for window: UIWindow) -> UIColor? {

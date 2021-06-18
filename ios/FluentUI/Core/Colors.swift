@@ -174,7 +174,10 @@ public final class Colors: NSObject {
         case presenceUnknown
 
         public var color: UIColor {
-            if let fluentColor = UIColor(named: "FluentColors/" + self.name, in: FluentUIFramework.resourceBundle, compatibleWith: nil) {
+            
+            if let colorBundleURL = Bundle.main.resourceURL?.appendingPathComponent("FluentUI_FluentUI-Common.bundle"),
+               let colorBundle = Bundle(url:colorBundleURL),
+               let fluentColor = UIColor(named: "FluentColors/" + self.name, in: colorBundle, compatibleWith: nil) {
                 return fluentColor
             } else {
                 preconditionFailure("invalid fluent color")

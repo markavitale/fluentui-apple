@@ -4,7 +4,7 @@
 //
 
 // MARK: TableViewCellShimmerDemoController
-
+import FluentUI
 class TableViewCellShimmerDemoController: TableViewCellDemoController {
     let shimmerSynchronizer = AnimationSynchronizer()
 
